@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**0xbara/0xbara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about the field of information security and have been in this field for a year. I have obtained the Junior Penetration Tester (eJPT) certification from eLearnSecurity and am eager to continue learning and developing my skills. I am seeking opportunities to apply my knowledge and gain practical experience.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Hacking
+- OWASP Top 10
+- Linux
+- Windows
+- Bash Scripting
+
+### Certifications
+
+- Junior Penetration Tester (eJPT)
