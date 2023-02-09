@@ -16,4 +16,5 @@ I am passionate about the field of information security and have been in this fi
 
 ### Projects
 
-[GithubBadge](https://github.com/0xbara/autoBspwm)
+[CTF WriteUps](https://0xbara.github.io)
+[autoBspwm](https://github.com/0xbara/autoBspwm)
