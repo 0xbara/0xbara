@@ -4,10 +4,10 @@ I am passionate about the field of information security and have been in this fi
 
 ### Skills
 
-- Web Hacking
 - OWASP Top 10
 - Linux
 - Windows
+- Active Directory
 - Bash Scripting
 
 ### Certifications
@@ -17,4 +17,5 @@ I am passionate about the field of information security and have been in this fi
 ### Projects
 
 [CTF WriteUps](https://0xbara.github.io)
+
 [autoBspwm](https://github.com/0xbara/autoBspwm)
