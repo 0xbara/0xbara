@@ -9,6 +9,7 @@ I am passionate about the field of information security and have been in this fi
 - Windows
 - Active Directory
 - Bash Scripting
+- Python
 
 ### Certifications
 
